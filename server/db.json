@@ -1,0 +1,83 @@
+{
+    "Candidates": [
+        {
+            "id": "1",
+            "name": "Moshe",
+            "beginYear": "2020",
+            "lastUpdateDate": "2022-11-03",
+            "languages": [
+                1,
+                3
+            ]
+        },
+        {
+            "id": "20",
+            "name": "Avi",
+            "beginYear": "2020",
+            "lastUpdateDate": "2021-09-27",
+            "languages": [
+                3
+            ]
+        },
+        {
+            "id": "300",
+            "name": "Gila",
+            "beginYear": "",
+            "lastUpdateDate": "2023-01-01",
+            "languages": [
+                2,
+                4,
+                7
+            ]
+        },
+        {
+            "id": "400",
+            "name": "Rina",
+            "beginYear": "2019",
+            "lastUpdateDate": "2021-05-17",
+            "languages": [
+                2,
+                3,
+                6
+            ]
+        }
+    ],
+    "Languages": [
+        {
+            "id": 1,
+            "name": "Java"
+        },
+        {
+            "id": 2,
+            "name": ".NET"
+        },
+        {
+            "id": 3,
+            "name": "NodeJS"
+        },
+        {
+            "id": 4,
+            "name": "Advanced Vanilla JS"
+        },
+        {
+            "id": 5,
+            "name": "React"
+        },
+        {
+            "id": 6,
+            "name": "Angular"
+        },
+        {
+            "id": 7,
+            "name": "Kotlin"
+        },
+        {
+            "id": 8,
+            "name": "Dart"
+        },
+        {
+            "id": 9,
+            "name": "Flutter"
+        }
+    ]
+}

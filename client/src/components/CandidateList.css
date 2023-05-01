@@ -1,0 +1,32 @@
+.candidate-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+  }
+  
+  .candidate-card-header {
+    margin-bottom: 1rem;
+  }
+  
+  .candidate-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .candidate-experience {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .candidate-languages {
+    margin-bottom: 1rem;
+  }
+  
+  .candidate-languages li {
+    margin-right: 0.5rem;
+  }
+  
+  .candidate-last-update {
+    font-size: 0.8rem;
+    color: #666;
+  }
